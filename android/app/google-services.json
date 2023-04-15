@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414956960070",
+    "project_id": "jubank-f19b3",
+    "storage_bucket": "jubank-f19b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414956960070:android:0ecc0f594b91281a6f8d47",
+        "android_client_info": {
+          "package_name": "br.dev.douglaswender.jubank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414956960070-qgs3k837fkkab3t6fkhkv6cdu4366fsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7fAbNBBHALlz9e646n1xSgDuZ8x97OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414956960070-qgs3k837fkkab3t6fkhkv6cdu4366fsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
